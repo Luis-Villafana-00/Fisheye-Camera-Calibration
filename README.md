@@ -21,7 +21,7 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 <img width="1263" height="715" alt="image" src="https://github.com/user-attachments/assets/7b848e06-c718-4e32-af5d-4086419088a4" />
 
-### Some examples of dewarped images and their fisheye counterparts:
+### Some examples of fisheye images and their dewarped counterparts:
 
 <img width="1901" height="580" alt="image" src="https://github.com/user-attachments/assets/df0eec4d-f77e-415d-b7cf-eac5e189d043" />
 
