@@ -19,7 +19,7 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 ## Dewarping Barrel Distortion With Nonnegative Linear Least-Squares Optimization
 
-<img width="1263" height="715" alt="image" src="https://github.com/user-attachments/assets/7b848e06-c718-4e32-af5d-4086419088a4" />
+<img width="1262" height="704" alt="image" src="https://github.com/user-attachments/assets/4de53660-ff01-4341-a618-55c58414414a" />
 
 ### Some examples of fisheye images and their dewarped counterparts:
 
