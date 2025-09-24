@@ -31,3 +31,4 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 ## Estimating Focal Distance With OpenCV
 
+<img width="1553" height="942" alt="image" src="https://github.com/user-attachments/assets/18c3e4b3-8fde-4241-bc38-23db8225426a" />
