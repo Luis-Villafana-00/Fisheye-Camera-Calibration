@@ -31,4 +31,26 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 ## Estimating Focal Distance With OpenCV
 
+<img width="1014" height="992" alt="image" src="https://github.com/user-attachments/assets/f0e94d5b-1525-4718-8903-4ff63b506058" />
+
 <img width="1553" height="942" alt="image" src="https://github.com/user-attachments/assets/18c3e4b3-8fde-4241-bc38-23db8225426a" />
+
+## Stereo Camera Calibration
+
+### Dewarping of Left and Right Images
+
+<img width="1904" height="932" alt="image" src="https://github.com/user-attachments/assets/47af7c02-4c7c-42aa-90d9-d81ca499a6a8" />
+
+### Image Rectification
+
+<img width="1906" height="534" alt="image" src="https://github.com/user-attachments/assets/de774508-11b4-4e70-baad-cafa5caa5def" />
+
+<img width="1906" height="534" alt="image" src="https://github.com/user-attachments/assets/d30634ae-8831-4a02-8c01-d3a275a5db3e" />
+
+<img width="1900" height="278" alt="image" src="https://github.com/user-attachments/assets/8a207f4b-3021-40be-a9f5-fc9936dcead7" />
+
+<img width="1901" height="380" alt="image" src="https://github.com/user-attachments/assets/a99f20d6-8655-478f-a167-82b67a454955" />
+
+<img width="1241" height="939" alt="image" src="https://github.com/user-attachments/assets/2474a2d3-a83b-4b25-bef5-cd0f5d07dab9" />
+
+### Geometric Interpretation
