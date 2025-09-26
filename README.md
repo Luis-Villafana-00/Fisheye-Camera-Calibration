@@ -52,3 +52,9 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 <img width="953" height="725" alt="image" src="https://github.com/user-attachments/assets/08967a54-b922-4b27-b512-a467b10932b0" />
 
 ### Geometric Interpretation
+
+#### Before Rectification:
+
+<img width="1262" height="416" alt="image" src="https://github.com/user-attachments/assets/32c38466-065d-4248-ad1a-5bcd668e520d" />
+
+<img width="1413" height="494" alt="image" src="https://github.com/user-attachments/assets/1994cd0d-fee9-4f6a-a42e-fdf7bc399f8e" />
