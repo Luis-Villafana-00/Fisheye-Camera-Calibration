@@ -1,5 +1,5 @@
 # Fisheye-Camera-Calibration
-An alternative approach to calibrating cameras with radially symmetric distortion with a minimal number of checkerboard images.
+An alternative approach to calibrating stereo cameras with radially symmetric distortion with a minimal number of checkerboard images.
 
 ## Main Building Block - Parametric Rectangle Interpolation
 
