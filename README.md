@@ -53,14 +53,14 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 ### Geometric Interpretation
 
-#### Before Rectification:
+#### Before Rectification (Images Are Skew):
 
-<img width="1262" height="416" alt="image" src="https://github.com/user-attachments/assets/32c38466-065d-4248-ad1a-5bcd668e520d" />
+<img width="1242" height="479" alt="image" src="https://github.com/user-attachments/assets/dd37f934-cd80-47a1-a6b8-822fb5e0f7d2" />
 
-<img width="1413" height="494" alt="image" src="https://github.com/user-attachments/assets/1994cd0d-fee9-4f6a-a42e-fdf7bc399f8e" />
+<img width="1272" height="495" alt="image" src="https://github.com/user-attachments/assets/96489eec-d639-4d7e-b27b-f118b0221e7a" />
 
-#### After Rectification
+#### After Rectification (Images Are Parallel):
 
-<img width="902" height="291" alt="image" src="https://github.com/user-attachments/assets/1a7f2599-db0c-4512-ba24-d5ffef6a0164" />
+<img width="973" height="372" alt="image" src="https://github.com/user-attachments/assets/b053adb5-2e09-454a-abde-bf884096ca4a" />
 
-<img width="1008" height="300" alt="image" src="https://github.com/user-attachments/assets/9db7a84c-f68b-4015-822b-39adac042662" />
+<img width="1238" height="371" alt="image" src="https://github.com/user-attachments/assets/cbce40fa-4908-49d7-8edd-f3bde8b45459" />
