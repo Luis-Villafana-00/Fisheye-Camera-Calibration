@@ -63,4 +63,6 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 <img width="973" height="372" alt="image" src="https://github.com/user-attachments/assets/b053adb5-2e09-454a-abde-bf884096ca4a" />
 
+<kbd>
 <img width="1238" height="371" alt="image" src="https://github.com/user-attachments/assets/cbce40fa-4908-49d7-8edd-f3bde8b45459" />
+</kbd>
