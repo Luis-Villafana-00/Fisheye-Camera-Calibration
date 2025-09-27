@@ -55,13 +55,19 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 #### Before Rectification (Images Are Skew):
 
+<kbd>
 <img width="1242" height="479" alt="image" src="https://github.com/user-attachments/assets/dd37f934-cd80-47a1-a6b8-822fb5e0f7d2" />
+</kbd>
 
+<kbd>
 <img width="1272" height="495" alt="image" src="https://github.com/user-attachments/assets/96489eec-d639-4d7e-b27b-f118b0221e7a" />
+</kbd>
 
 #### After Rectification (Images Are Parallel):
 
+<kbd>
 <img width="973" height="372" alt="image" src="https://github.com/user-attachments/assets/b053adb5-2e09-454a-abde-bf884096ca4a" />
+</kbd>
 
 <kbd>
 <img width="1238" height="371" alt="image" src="https://github.com/user-attachments/assets/cbce40fa-4908-49d7-8edd-f3bde8b45459" />
