@@ -19,7 +19,7 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 ## Dewarping Barrel Distortion With Nonnegative Linear Least-Squares Optimization
 
-<img width="1262" height="704" alt="image" src="https://github.com/user-attachments/assets/4de53660-ff01-4341-a618-55c58414414a" />
+<img width="1374" height="775" alt="image" src="https://github.com/user-attachments/assets/be47e45f-11ad-41e2-9902-7a2f02315b56" />
 
 ### Some examples of fisheye images and their dewarped counterparts:
 
@@ -53,7 +53,7 @@ An alternative approach to calibrating cameras with radially symmetric distortio
 
 <img width="953" height="725" alt="image" src="https://github.com/user-attachments/assets/08967a54-b922-4b27-b512-a467b10932b0" />
 
-### Geometric Interpretation
+### Geometric Interpretation of Stereoscopic Rectification
 
 #### Before Rectification (Images Are Skew):
 
