@@ -41,7 +41,7 @@ The shared scripts demonstrate the proposed calibration approach in the steps de
 
 <img width="1553" height="942" alt="image" src="https://github.com/user-attachments/assets/18c3e4b3-8fde-4241-bc38-23db8225426a" />
 
-## Stereo Camera Calibration (stereo calibraetion.py)
+## Stereo Camera Calibration (stereo calibration.py)
 
 ### Dewarping of Left and Right Images
 
