@@ -3,11 +3,13 @@ An alternative approach to calibrating stereo cameras with radially symmetric di
 
 Example images can be found [here](https://drive.google.com/drive/folders/1ogV-BtqnnRtYcgh7X9OszqQUq7eGsr02?usp=sharing).
 
-## Main Building Block - Parametric Rectangle Interpolation
+The shared scripts demonstrate the proposed calibration approach in the steps described below:
+
+## Main Building Block - Parametric Rectangle Interpolation (interpolate.py)
 
 <img width="1748" height="946" alt="image" src="https://github.com/user-attachments/assets/96f56296-77f6-4dee-963b-6a162758da0f" />
 
-## Optical Center Estimation - Deflection Minimization
+## Optical Center Estimation - Deflection Minimization (center.py)
 
 <img width="1743" height="947" alt="image" src="https://github.com/user-attachments/assets/9fbec5c6-d88d-4912-9804-4a258f345281" />
 
@@ -19,7 +21,7 @@ Example images can be found [here](https://drive.google.com/drive/folders/1ogV-B
 
 <img width="1671" height="942" alt="image" src="https://github.com/user-attachments/assets/de252736-645f-46ce-9f3a-21a79a5d30d7" />
 
-## Dewarping Barrel Distortion With Nonnegative Linear Least-Squares Optimization
+## Dewarping Barrel Distortion With Nonnegative Linear Least-Squares Optimization (dewarping.py)
 
 <img width="1374" height="775" alt="image" src="https://github.com/user-attachments/assets/be47e45f-11ad-41e2-9902-7a2f02315b56" />
 
@@ -31,7 +33,7 @@ Example images can be found [here](https://drive.google.com/drive/folders/1ogV-B
 
 <img width="1899" height="536" alt="image" src="https://github.com/user-attachments/assets/c3e73470-2f4e-4e66-8a9a-5a93b8faf066" />
 
-## Estimating Focal Distance With OpenCV
+## Estimating Focal Distance With OpenCV (focal distance.py)
 
 <kbd>
 <img width="909" height="796" alt="image" src="https://github.com/user-attachments/assets/c6681754-2bb6-440e-8819-327578b42907" />
@@ -39,7 +41,7 @@ Example images can be found [here](https://drive.google.com/drive/folders/1ogV-B
 
 <img width="1553" height="942" alt="image" src="https://github.com/user-attachments/assets/18c3e4b3-8fde-4241-bc38-23db8225426a" />
 
-## Stereo Camera Calibration
+## Stereo Camera Calibration (stereo calibraetion.py)
 
 ### Dewarping of Left and Right Images
 
