@@ -1,9 +1,9 @@
 # Fisheye-Camera-Calibration
-An alternative approach to calibrating stereo cameras with radially symmetric distortion with a minimal number of checkerboard images.
+This repository demonstrates an alternative approach to calibrating stereo cameras with radially-symmetric, fisheye distortion using a minimal number of calibration checkerboard images.
 
-Example images can be found [here](https://drive.google.com/drive/folders/1ogV-BtqnnRtYcgh7X9OszqQUq7eGsr02?usp=sharing).
+The images used in the scripts can be found [here](https://drive.google.com/drive/folders/1ogV-BtqnnRtYcgh7X9OszqQUq7eGsr02?usp=sharing).
 
-The shared scripts demonstrate the proposed calibration approach in the steps described below:
+The shared scripts demonstrate the calibration approach in the steps described below:
 
 ## Main Building Block - Parametric Rectangle Interpolation (interpolate.py)
 
@@ -26,6 +26,8 @@ The shared scripts demonstrate the proposed calibration approach in the steps de
 <img width="1374" height="775" alt="image" src="https://github.com/user-attachments/assets/be47e45f-11ad-41e2-9902-7a2f02315b56" />
 
 ### Some examples of fisheye images and their dewarped counterparts:
+
+
 
 <img width="1901" height="580" alt="image" src="https://github.com/user-attachments/assets/df0eec4d-f77e-415d-b7cf-eac5e189d043" />
 
